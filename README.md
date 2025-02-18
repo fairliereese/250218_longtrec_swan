@@ -10,7 +10,7 @@ What you will need:
 ## Clone this repo and create the Swan conda environment
 
 ```bash
-git clone git@github.com:fairliereese/250218_longtrec_swan.git .
+git clone git@github.com:fairliereese/250218_longtrec_swan.git
 cd 250218_longtrec_swan
-
+conda env create -f conda_env_config.yml
 ```
