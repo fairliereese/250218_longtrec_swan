@@ -5,9 +5,9 @@ channels:
   - defaults
 dependencies:
     - pandas==1.5.3
-    - python=3.8.0=hd366da7_5
-    - jupyterlab=4.0.3=pyhd8ed1ab_0
+    - python=3.8.0
+    - jupyterlab=4.0.3
     - scanpy==1.9.3
     - scikit-learn==1.3.0
     - scipy==1.10.1
-    - numpy=1.24.4=py38h9a4a08f_0
+    - numpy=1.24.4
