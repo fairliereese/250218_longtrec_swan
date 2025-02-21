@@ -18,3 +18,21 @@ pip install swan_vis
 ```
 
 ## Download data
+
+Only the final `.p` files:
+```bash
+wget https://zenodo.org/records/14904845/files/5xfad.p?download=1 -O data/5xfad.p
+wget https://zenodo.org/records/14904845/files/c2c12.p?download=1 -O data/c2c12s.p
+```
+
+<!-- Everything:
+```bash
+wget https://zenodo.org/api/records/14904845/files-archive
+``` -->
+
+## Resources
+* [Swan documentation](https://github.com/mortazavilab/swan_vis)
+* [Swan GitHub](https://github.com/mortazavilab/swan_vis)
+* [Swan manuscript](https://academic.oup.com/bioinformatics/article/37/9/1322/5912931)
+* [Today's presentation](https://docs.google.com/presentation/d/10DQPfCY2aSK7bC0fFrnYNSCz2vqXWNxNDTNro3iy8FQ/edit?usp=sharing)
+* [Data on Zenodo](https://zenodo.org/records/14904845)
