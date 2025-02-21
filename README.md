@@ -13,4 +13,8 @@ What you will need:
 git clone git@github.com:fairliereese/250218_longtrec_swan.git
 cd 250218_longtrec_swan
 conda env create -f conda_env_config.yml
+conda activate swan
+pip install swan_vis
 ```
+
+## Download data
