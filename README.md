@@ -22,7 +22,7 @@ pip install swan_vis
 Only the final `.p` files:
 ```bash
 wget https://zenodo.org/records/14904845/files/5xfad.p?download=1 -O data/5xfad.p
-wget https://zenodo.org/records/14904845/files/c2c12.p?download=1 -O data/c2c12s.p
+wget https://zenodo.org/records/14904845/files/c2c12.p?download=1 -O data/c2c12.p
 ```
 
 <!-- Everything:
